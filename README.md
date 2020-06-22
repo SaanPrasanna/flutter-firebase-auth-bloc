@@ -1,2 +1,2 @@
-# flutter-firebase-auth-bloc
+# Flutter-Firebase-auth-BLoC
 Flutter Firebase authentication with Business Logic Components (BLoC) 
